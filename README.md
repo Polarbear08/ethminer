@@ -1,7 +1,7 @@
 # ethminer
 
 ## 使用方法
-詳細：
+詳細：https://zenn.dev/polarbear08/articles/polarbear08-article-genesis-mining
 
 ```
 $ git clone https://github.com/Polarbear08/ethminer.git
@@ -16,6 +16,10 @@ $ cd ethminer
 
 ```
 $ bash setup.sh
+
+# 途中で以下のようなメッセージが出て処理が一度止まるので、Enterを押して続行してください。
+# Press [ENTER] to continue or Ctrl-c to cancel adding it.
+
 $ sudo reboot
 (再ログイン)
 $ bash after-reboot.sh
